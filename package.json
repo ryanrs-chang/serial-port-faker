@@ -1,0 +1,13 @@
+{
+    "name": "serial-port-faker",
+    "version": "1.0.0",
+    "description": "sned fake data to virtual serial port",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ryan Chang <ppppp196@gmail.com>",
+    "license": "ISC",
+    "dependencies": {}
+}
