@@ -10,3 +10,5 @@ socat -d -d -v pty,raw,echo=0 pty,raw,echo=0
 ```
 
 it's writing fake data to `/dev/ttys004`, another the device receive on `/dev/ttys005`.
+
+![](serial-port-faker-sample.gif)
